@@ -1,14 +1,14 @@
 # file: "cupy_example_raw.py"
 import numpy as np
-import cupy
+import cupy as cp
 
 x1 = np.array([1, 3, 5, 7, 9], dtype=np.float64)
 x2 = np.array([2, 4, 6, 8, 10], dtype=np.float64)
 
-x1_dev = cupy.array(x1)
-x2_dev = cupy.array(x2)
+x1_dev = cp.array(x1)
+x2_dev = cp.array(x2)
 
-y_dev = cupy.zeros_like(x1_dev)
+y_dev = cp.zeros_like(x1_dev)
 
 source_str = r"""
 extern "C"{
@@ -21,7 +21,7 @@ void mymul(int n,
 }
 }"""
 
-module = cupy.RawModule(code=source_str)
+module = cp.RawModule(code=source_str)
 mymul_kernel = module.get_function("mymul")
 
 blocksize = 2
