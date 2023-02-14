@@ -6,8 +6,9 @@
 - [CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit): >v10.2
 -
 
-'pip install cffi' </br>
-For CUDA Toolkit version xy.z: 'pip install cupy-cudaxyz' </br>
+CFFI: 'pip install cffi' </br>
+For CUDA Toolkit version xy.z: `pip install cupy-cudaxyz` </br>
+PyOpenCL: `pip install pyopencl` </br>
 
 ## Tutorial
 
