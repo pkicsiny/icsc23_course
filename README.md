@@ -3,8 +3,8 @@
 ## Tutorial
 
 The goal of this tutorial is to play around with the Python libraries CFFI, CuPy & PyOpenCL using the toy problem of elementwise matrix multiplication. There are 3 exercises:
-- Exercise 1: Implement a function in python that multiplies two matrices. Implement the same function in C. Use CFFI to create a C extension module, load it in Python then test it. Compare the execution times of the pure Python and the CFFI implementation for different sizes of matrices.
-- Exercise 2: Modify the C function with the appropriate CUDA and OpenCL kernel qualifiers to create two GPU kernels. Use CuPy and PyOpenCL to execute the kernels on the GPU. Compare the GPU execution times with different martix sizes and using different block sizes.
+- Exercise 1: Implement a function in Python that multiplies two matrices. Implement the same function in C. Use CFFI to create a C extension module, load it in Python then test it. Compare the execution times of the pure Python and the CFFI implementation for different sizes of matrices.
+- Exercise 2: Modify the C function with the appropriate CUDA and OpenCL kernel qualifiers to create two GPU kernels. Use CuPy and PyOpenCL to execute the kernels on the GPU. Compare the GPU execution times with different martix sizes and using different block sizes. Try to make them run as fast as possible.
 - Exercise 3: Create a Python wrapper around the C function. The Python script takes as input the desired context (`cpu`, `gpu_cupy` or `gpu_pyopencl`). If the input is GPU, the script parses the C function and turns it into a GPU kernel by adding the relevant qualifiers, loading the relevant library and executing it. Use standard Python libraries for string parsing.
 
 ## References & resources
