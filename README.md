@@ -1,5 +1,13 @@
 # iCSC23 Course - Multiplatform Programming with Python
 
+## Installation
+#### Requirements
+- Python: >v3.7.0
+- [CUDA Toolkit]:(https://developer.nvidia.com/cuda-toolkit) >v10.2
+-
+'pip install cffi'
+'pip install cupy-cuda11x'
+
 ## Tutorial
 
 The goal of this tutorial is to play around with the Python libraries CFFI, CuPy & PyOpenCL using the toy problem of elementwise matrix multiplication. There are 3 exercises:
