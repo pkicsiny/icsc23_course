@@ -3,7 +3,7 @@
 ## Installation
 #### Requirements
 - Python: >v3.7.0
-- [CUDA Toolkit]:(https://developer.nvidia.com/cuda-toolkit) >v10.2
+- [CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit): >v10.2
 -
 'pip install cffi'
 'pip install cupy-cuda11x'
