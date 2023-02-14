@@ -2,13 +2,13 @@
 
 ## Installation
 [CFFI](https://cffi.readthedocs.io/en/latest/installation.html), [CuPy](https://docs.cupy.dev/en/stable/install.html), [PyOpenCL](https://documen.tician.de/pyopencl/misc.html)
-#### Requirements
-- Python: >v3.7.0
-- [CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit): >v10.2
 
 CFFI: `pip install cffi` </br>
 CuPy with CUDA Toolkit version xy.z: `pip install cupy-cudaxyz` </br>
 PyOpenCL: `pip install pyopencl` </br>
+#### Requirements
+- Python: >v3.7.0
+- [CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit): >v10.2
 
 ## Tutorial
 
