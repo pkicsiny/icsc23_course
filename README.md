@@ -7,7 +7,7 @@
 -
 
 CFFI: 'pip install cffi' </br>
-For CUDA Toolkit version xy.z: `pip install cupy-cudaxyz` </br>
+CuPy with CUDA Toolkit version xy.z: `pip install cupy-cudaxyz` </br>
 PyOpenCL: `pip install pyopencl` </br>
 
 ## Tutorial
