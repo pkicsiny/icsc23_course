@@ -15,17 +15,17 @@ https://safari.ethz.ch/architecture/fall2019/lib/exe/fetch.php?media=2013_progra
 [2] CUDA Programming guide </br> 
 https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html
 
-[3] OpenCLAPISpecification </br> 
+[3] OpenCL API Specification </br> 
 https://registry.khronos.org/OpenCL/
 
 [4] Easy, Effective, Efficient GPU Programming with PyOpenCL and PyCUDA, Andreas Klöckner </br> 
 https://www.bu.edu/pasi/courses/gpu-programming-with-pyopencl-and-pycuda/
 
-[5] CFFIdocumentation </br> 
+[5] CFFI documentation </br> 
 https://cffi.readthedocs.io/en/latest/index.html
 
-[6] CuPydocumentation </br> 
+[6] CuPy documentation </br> 
 https://docs.cupy.dev/en/stable/index.html
 
-[7] PyOpenCLdocumentation </br> 
+[7] PyOpenCL documentation </br> 
 https://documen.tician.de/pyopencl/index.html
