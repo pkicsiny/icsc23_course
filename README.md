@@ -1,6 +1,6 @@
-iCSC23 Course - Multiplatform Programming with Python
+# iCSC23 Course - Multiplatform Programming with Python
 
-# References & resources
+## References & resources
 
 [1] Programming Massively Parallel Processors, David B. Kirk, Wen-mei W. Hwu </br>
 https://safari.ethz.ch/architecture/fall2019/lib/exe/fetch.php?media=2013_programming_massively_parallel_processors_a_hands-on_approach_2nd.pdf
