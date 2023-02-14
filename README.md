@@ -5,7 +5,8 @@
 The goal of this tutorial is to try out the Python libraries CFFI, CuPy & PyOpenCL on the toy problem of elementwise matrix multiplication. There are 3 exercises:
 - 
 - 
-- 
+
+
 ## References & resources
 
 [1] Programming Massively Parallel Processors, David B. Kirk, Wen-mei W. Hwu </br>
