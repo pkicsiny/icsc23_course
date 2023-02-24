@@ -49,4 +49,4 @@ https://docs.cupy.dev/en/stable/index.html
 https://documen.tician.de/pyopencl/index.html
 
 [8] Tool used to create code snippet images for the lecture </br>
-[https://carbon.now.sh/pGOnb5JKK7Y83S0VNUCC](https://carbon.now.sh/)
+https://carbon.now.sh/
