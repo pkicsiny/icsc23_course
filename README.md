@@ -1,13 +1,18 @@
 # iCSC23 Course - Multiplatform Programming with Python
 
-This repository contains the reference materials for the course and instructions on how to set up the tutorial environment.
+This repository contains reference materials for the course and instructions on how to set up the tutorial environment. </br>
+- The folder `lecture_examples` contains code snippets that were shown during the lecture. These are not part of the tutorial and are stored here for reference only.
+- The folder `tutorial` contains the tutorial exercises. Please follow the steps below for the setup.
 
 ## Tutorial setup
 
-The tutorial uses the [CERN SWAN](https://swan.web.cern.ch/swan/) service. </br>
-To connect make sure you have a CERN account or a [CERN lightweight account](https://account.cern.ch/account/Externals/). </br>
-Once connected you are requested to configure the work environment: In the first dropdown window select `102b_cuda` then press "Start my session"
+- The tutorial uses the [CERN SWAN](https://swan.web.cern.ch/swan/) service.
+- To connect you will have to login using your CERN account.
+- Once connected you are requested to configure the work environment: In the first dropdown window select `102b_cuda` then press "Start my session"
  at the bottom.
+- On the top right of the window click on the cloud sign.
+- Paste the URL of this repository and press "Download" to clone the material to SWAN.
+- Navigate to the "tutorial" folder & have fun!
  
 ## Tutorial exercises
 
