@@ -15,7 +15,7 @@ This repository contains reference materials for the course and instructions on 
 - Copy the URL of this repository.
 ![Step 3](https://github.com/pkicsiny/icsc23_course/blob/main/readme_images/setup_3.png)
 - Paste the URL in the SWAN window and press "Download" to clone the material.
-![Step 4](https://github.com/pkicsiny/icsc23_course/blob/main/readme_images/setup_3.png)
+![Step 4](https://github.com/pkicsiny/icsc23_course/blob/main/readme_images/setup_4.png)
 - Navigate to the `tutorial` folder & have fun!
  
 ## Tutorial exercises
