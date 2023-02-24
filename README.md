@@ -11,9 +11,9 @@ This repository contains reference materials for the course and instructions on 
 - Once connected you are requested to configure the work environment: In the first dropdown window select `102b_cuda` then press "Start my session"
  at the bottom.
 - On the top right of the window click on the cloud sign.
-![Step 2](https://github.com/pkicsiny/icsc23_course/readme_images/step_2.png)
+![Step 2](https://github.com/pkicsiny/icsc23_course/blob/main/readme_images/setup_2.png)
 - Paste the URL of this repository and press "Download" to clone the material to SWAN.
-![Step 3](https://github.com/pkicsiny/icsc23_course/readme_images/step_3.png)
+![Step 3](https://github.com/pkicsiny/icsc23_course/blob/main/readme_images/setup_3.png)
 - Navigate to the `tutorial` folder & have fun!
  
 ## Tutorial exercises
