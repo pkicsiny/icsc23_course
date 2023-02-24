@@ -48,5 +48,5 @@ https://docs.cupy.dev/en/stable/index.html
 [7] PyOpenCL documentation </br> 
 https://documen.tician.de/pyopencl/index.html
 
-[8] Tool used to create code snippet images </br>
+[8] Tool used to create code snippet images for the lecture </br>
 https://carbon.now.sh/pGOnb5JKK7Y83S0VNUCC
