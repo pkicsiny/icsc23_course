@@ -12,7 +12,7 @@ This repository contains reference materials for the course and instructions on 
  at the bottom.
 - On the top right of the window click on the cloud sign.
 - Paste the URL of this repository and press "Download" to clone the material to SWAN.
-- Navigate to the "tutorial" folder & have fun!
+- Navigate to the `tutorial` folder & have fun!
  
 ## Tutorial exercises
 
