@@ -17,7 +17,9 @@ void mymul(int n,
     const double* x1, const double* x2, double* y)
 {
     int tid = blockDim.x * blockIdx.x + threadIdx.x;
-    y[tid] = x1[tid] * x2[tid];
+    if (tid < n){
+      y[tid] = x1[tid] * x2[tid];
+    }
 }
 }"""
 
