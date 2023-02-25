@@ -20,8 +20,7 @@ void mymul(int n,
     if (tid < n){
       y[tid] = x1[tid] * x2[tid];
     }
-}
-}"""
+}}"""
 
 module = cp.RawModule(code=source_str)
 mymul_kernel = module.get_function("mymul")
