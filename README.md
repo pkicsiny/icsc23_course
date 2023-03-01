@@ -10,15 +10,21 @@ This repository contains reference materials for the course and instructions on 
 - To connect you will have to login using your CERN account.
 - Once connected you are requested to configure the work environment: In the first dropdown window select `102b Cuda` and press "Start my session"
  at the bottom. You don't have to change the other settings.
- <p align="center">
+<p align="center">
   <img src="https://github.com/pkicsiny/icsc23_course/blob/main/readme_images/setup_1.png?raw=true" alt="Step 1"/>
 </p>
 - On the top right of the window click on the cloud sign.
-![Step 2](https://github.com/pkicsiny/icsc23_course/blob/main/readme_images/setup_2.png)
+<p align="center">
+  <img src="https://github.com/pkicsiny/icsc23_course/blob/main/readme_images/setup_2.png?raw=true" alt="Step 2"/>
+</p>
 - Copy the URL of this repository.
-![Step 3](https://github.com/pkicsiny/icsc23_course/blob/main/readme_images/setup_3.png)
+<p align="center">
+  <img src="https://github.com/pkicsiny/icsc23_course/blob/main/readme_images/setup_3.png?raw=true" alt="Step 3"/>
+</p>
 - Paste the URL in the SWAN window and press "Download" to clone the material.
-![Step 4](https://github.com/pkicsiny/icsc23_course/blob/main/readme_images/setup_4.png)
+<p align="center">
+  <img src="https://github.com/pkicsiny/icsc23_course/blob/main/readme_images/setup_4.png?raw=true" alt="Step 4"/>
+</p>
 - Navigate to the `tutorial` folder & have fun!
  
 ## Tutorial exercises
