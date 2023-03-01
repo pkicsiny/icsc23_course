@@ -8,7 +8,7 @@ This repository contains reference materials for the course and instructions on 
 
 - The tutorial uses the [CERN SWAN](https://swan.web.cern.ch/swan/) service.
 - To connect you will have to login using your CERN account.
-- Once connected you are requested to configure the work environment: In the first dropdown window select `102b_cuda` then press "Start my session"
+- Once connected you are requested to configure the work environment: In the first dropdown window select `102b Cuda` then press "Start my session"
  at the bottom.
 ![Step 1](https://github.com/pkicsiny/icsc23_course/blob/main/readme_images/setup_1.png)
 - On the top right of the window click on the cloud sign.
