@@ -29,7 +29,7 @@ This repository contains reference materials for the course and instructions on 
   <img src="https://github.com/pkicsiny/icsc23_course/blob/main/readme_images/setup_4.png?raw=true" alt="Step 4"/>
 </p>
 
-- Navigate to the "tutorial" folder & have fun!
+- Navigate to the `tutorial` folder & have fun!
  
 ## Tutorial exercises
 
