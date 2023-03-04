@@ -7,7 +7,7 @@ This repository contains reference materials for the course and instructions on 
 ## Tutorial setup
 
 - The tutorial uses the [CERN SWAN](https://swan.web.cern.ch/swan/) service.
-- To connect you will have to login using your CERN account. Your account must be subscribed to LXPLUS. If it is not, you can do it [here](https://resources.web.cern.ch/resources/) by clicking on "List Services". 
+- To connect you will have to login using your CERN account. Your account must be subscribed to LXPLUS. If it is not, you can do it [here](https://resources.web.cern.ch/resources/) by clicking on "List Services". On that page find "LXPLUS and Linux" then click on "Subscribe". 
 - Your account must have access to [CERNBox](https://cernbox.cern.ch/).
 - Once connected to SWAN you are requested to configure the work environment: In the first dropdown window select `102b Cuda` and press "Start my session"
  at the bottom. You don't have to change the other settings.
