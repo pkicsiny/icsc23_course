@@ -13,7 +13,7 @@ This repository contains reference materials for the course and instructions on 
 <p align="center">
   <img src="https://github.com/pkicsiny/icsc23_course/blob/main/readme_images/setup_1.png?raw=true" alt="Step 1"/>
 </p>
-- On the top right of the window click on the cloud sign.
+- On the top right of the window on the GitHub repo page click on the cloud sign.
 <p align="center">
   <img src="https://github.com/pkicsiny/icsc23_course/blob/main/readme_images/setup_2.png?raw=true" alt="Step 2"/>
 </p>
