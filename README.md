@@ -25,14 +25,14 @@ This repository contains reference materials for the course and instructions on 
 <p align="center">
   <img src="https://github.com/pkicsiny/icsc23_course/blob/main/readme_images/setup_4.png?raw=true" alt="Step 4"/>
 </p>
-- Navigate to the `tutorial` folder & have fun!
+- Navigate to the "tutorial" folder & have fun!
  
 ## Tutorial exercises
 
 The goal of the tutorial is to demonstrate the basic usecases of the Python libraries CFFI, CuPy & PyOpenCL. There are 3 exercises:
-- Exercise 1: This exercise is about a speeding up a Python function that computes the n-th Fibonacci number. We will use CFFI to create a C extension module, load it in Python then test it. Then we compare the execution times of the pure Python and the CFFI implementation.
-- Exercise 2: This exercise is a demo of CuPy and PyOpenCL. We will create and execute a simple elementwise kernel on the GPU and use the math API of the libraries to perform the same operation purely in Python. We then do a simple profiling of the execution time on the GPU.
-- Exercise 3: This exercise is about templating, i.e. we will simply create a Python wrapper around a C function. The wrapper takes as input the desired context (`cpu`, `gpu_cuda` or `gpu_opencl`) then the script parses the C function and turns it into a CPU or GPU kernel by adding the relevant qualifiers, then loads the relevant library and executes it on the requested platform. This exercise is meant to show that we can write our performance critical C code only once and use Python's string parsing methods to fine tune it for a specific context.
+- __Exercise 1:__ This exercise is about a speeding up a Python function that computes the n-th Fibonacci number. We will use CFFI to create a C extension module, load it in Python then test it. Then we compare the execution times of the pure Python and the CFFI implementation.
+- __Exercise 2:__ This exercise is a demo of CuPy and PyOpenCL. We will create and execute a simple elementwise kernel on the GPU and use the math API of the libraries to perform the same operation purely in Python. We then do a simple profiling of the execution time on the GPU.
+- __Exercise 3:__ This exercise is about templating, i.e. we will simply create a Python wrapper around a C function. The wrapper takes as input the desired context (`cpu`, `gpu_cuda` or `gpu_opencl`) then the script parses the C function and turns it into a CPU or GPU kernel by adding the relevant qualifiers, then loads the relevant library and executes it on the requested platform. This exercise is meant to show that we can write our performance critical C code only once and use Python's string parsing methods to fine tune it for a specific context.
 
 ## References & resources
 
