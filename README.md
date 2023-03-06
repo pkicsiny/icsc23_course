@@ -30,7 +30,7 @@ This repository contains reference materials for the course and instructions on 
   <img src="https://github.com/pkicsiny/icsc23_course/blob/main/readme_images/setup_4.png?raw=true" alt="Step 4"/>
 </p>
 
-- Navigate to the `tutorial` folder & have fun!
+- Navigate to the `tutorial/exercises` folder & have fun!
  
 ## Tutorial exercises
 
@@ -39,7 +39,7 @@ The goal of the tutorial is to demonstrate the basic usecases of the Python libr
 - __Exercise 2:__ This exercise is a demo of CuPy (`exercise_2a`) and PyOpenCL (`exercise_2b`). We will create and execute a simple elementwise kernel on the GPU and use the math API of the libraries to perform the same operation purely in Python. We then do a simple profiling of the execution time on the GPU.
 - __Exercise 3:__ This exercise is about templating, i.e. we will simply create a Python wrapper around a C function. The wrapper takes as input the desired context (`cpu`, `gpu_cuda` or `gpu_opencl`) then the script parses the C function and turns it into a CPU or GPU kernel by adding the relevant qualifiers, then loads the relevant library and executes it on the requested platform. This exercise is meant to show that we can write our performance critical C code only once and use Python's string parsing methods to fine tune it for a specific context.
 
-For exercises 1 and 3 there are parts where you are asked to fill in the code. For these you may find the solutions in the `exercise_solutions` folder.
+Exercises 1 and 3 contain parts where you are asked to fill in some code. For these you may find the solutions in the `tutorial/exercise_solutions` folder.
 ## References & resources
 
 [1] Programming Massively Parallel Processors, David B. Kirk, Wen-mei W. Hwu </br>
