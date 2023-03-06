@@ -1,7 +1,7 @@
 # iCSC23 Course - Multiplatform Programming with Python
 
 This repository contains reference materials for the course and instructions on how to set up the tutorial environment. </br>
-- The folder `lecture_examples` contains code snippets that were shown during the lecture. These are not part of the tutorial and are stored here for reference only.
+- The folder `lecture_examples` contains code snippets that were shown during the lecture. These are not part of the tutorial and are stored here for reference only, so that you can try them out at home.
 - The folder `tutorial` contains the tutorial exercises. Please follow the steps below for the setup.
 
 ## Tutorial setup
