@@ -11,7 +11,7 @@ This repository contains reference materials for the course and instructions on 
 - Your account must have access to [CERNBox](https://cernbox.cern.ch/).
 - Once connected to SWAN you are requested to configure the work environment: In the first dropdown window select `102b Cuda 11.7.1 (GPU)` and press "Start my session"
  at the bottom. You don't have to change the other settings.
-- Now you can clone this repo on SWAN by clicking on the banner below:
+- Now you can clone this repo to your CERNBox SWAN directory by clicking on the banner below:
 
     [![SWAN](https://swan.web.cern.ch/sites/swan.web.cern.ch/files/pictures/open_in_swan.svg)](https://swan-k8s.cern.ch/user-redirect/download?projurl=https%3A%2F%2Fgithub.com%2Fpkicsiny%2Ficsc23_course.git)
 
