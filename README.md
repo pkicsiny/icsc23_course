@@ -11,13 +11,9 @@ This repository contains reference materials for the course and instructions on 
 - Your account must have access to [CERNBox](https://cernbox.cern.ch/).
 - Once connected to SWAN you are requested to configure the work environment: In the first dropdown window select `102b Cuda` and press "Start my session"
  at the bottom. You don't have to change the other settings.
-<p align="center">
-  <img src="https://github.com/pkicsiny/icsc23_course/blob/main/readme_images/setup_1.png?raw=true" alt="Step 1"/>
-</p>
 - Now you can clone this repo on SWAN by clicking on the banner below:
 
-[![SWAN](https://swan.web.cern.ch/sites/swan.web.cern.ch/files/pictures/open_in_swan.svg)](https://swan-k8s.cern.ch/user-redirect/download?projurl=https%3A%2F%2Fgithub.com%2Fpkicsiny%2Ficsc23_course.git)
-
+    [![SWAN](https://swan.web.cern.ch/sites/swan.web.cern.ch/files/pictures/open_in_swan.svg)](https://swan-k8s.cern.ch/user-redirect/download?projurl=https%3A%2F%2Fgithub.com%2Fpkicsiny%2Ficsc23_course.git)
 
 - Navigate to the `tutorial/exercises` folder & have fun!
  
