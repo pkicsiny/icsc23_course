@@ -9,7 +9,7 @@ This repository contains reference materials for the course and instructions on 
 - The tutorial uses the [CERN SWAN](https://swan-k8s.cern.ch/hub/spawn) service.
 - To connect you will have to login using your CERN account. Your account must be subscribed to LXPLUS. If it is not, you can do it [here](https://resources.web.cern.ch/resources/) by clicking on "List Services". On that page find "LXPLUS and Linux" then click on "Subscribe". 
 - Your account must have access to [CERNBox](https://cernbox.cern.ch/).
-- Once connected to SWAN you are requested to configure the work environment: In the first dropdown window select `102b Cuda` and press "Start my session"
+- Once connected to SWAN you are requested to configure the work environment: In the first dropdown window select `102b Cuda 11.7.1 (GPU)` and press "Start my session"
  at the bottom. You don't have to change the other settings.
 - Now you can clone this repo on SWAN by clicking on the banner below:
 
