@@ -14,21 +14,10 @@ This repository contains reference materials for the course and instructions on 
 <p align="center">
   <img src="https://github.com/pkicsiny/icsc23_course/blob/main/readme_images/setup_1.png?raw=true" alt="Step 1"/>
 </p>
+- Now you can clone this repo on SWAN by clicking on the banner below:
 
-- On the top right of the SWAN page click on the cloud sign.
-<p align="center">
-  <img src="https://github.com/pkicsiny/icsc23_course/blob/main/readme_images/setup_2.png?raw=true" alt="Step 2"/>
-</p>
+[![SWAN](https://swan.web.cern.ch/sites/swan.web.cern.ch/files/pictures/open_in_swan.svg)](https://swan-k8s.cern.ch/user-redirect/download?projurl=https%3A%2F%2Fgithub.com%2Fpkicsiny%2Ficsc23_course.git)
 
-- Copy the URL of this repository.
-<p align="center">
-  <img src="https://github.com/pkicsiny/icsc23_course/blob/main/readme_images/setup_3.png?raw=true" alt="Step 3"/>
-</p>
-
-- Paste the URL in the SWAN window and press "Download" to clone the material.
-<p align="center">
-  <img src="https://github.com/pkicsiny/icsc23_course/blob/main/readme_images/setup_4.png?raw=true" alt="Step 4"/>
-</p>
 
 - Navigate to the `tutorial/exercises` folder & have fun!
  
