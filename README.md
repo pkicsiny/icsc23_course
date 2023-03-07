@@ -6,16 +6,13 @@ This repository contains reference materials for the course and instructions on 
 
 ## Tutorial setup
 
-- The tutorial uses the [CERN SWAN](https://swan-k8s.cern.ch/hub/spawn) service.
-- To connect you will have to login using your CERN account. Your account must be subscribed to LXPLUS. If it is not, you can do it [here](https://resources.web.cern.ch/resources/) by clicking on "List Services". On that page find "LXPLUS and Linux" then click on "Subscribe". 
-- Your account must have access to [CERNBox](https://cernbox.cern.ch/).
-- Once connected to SWAN you are requested to configure the work environment: In the first dropdown window select `102b Cuda 11.7.1 (GPU)` and press "Start my session"
+Click on the banner below:
+
+[![SWAN](https://swan.web.cern.ch/sites/swan.web.cern.ch/files/pictures/open_in_swan.svg)](https://swan-k8s.cern.ch/user-redirect/download?projurl=https%3A%2F%2Fgithub.com%2Fpkicsiny%2Ficsc23_course.git)
+    
+- This connects you to the CERN SWAN service where you will be requested to configure the work environment: In the first dropdown window select `102b Cuda 11.7.1 (GPU)` and press "Start my session"
  at the bottom. You don't have to change the other settings.
-- Now you can clone this repo to your CERNBox SWAN directory by clicking on the banner below:
-
-    [![SWAN](https://swan.web.cern.ch/sites/swan.web.cern.ch/files/pictures/open_in_swan.svg)](https://swan-k8s.cern.ch/user-redirect/download?projurl=https%3A%2F%2Fgithub.com%2Fpkicsiny%2Ficsc23_course.git)
-
-- Navigate to the `tutorial/exercises` folder & have fun!
+- The repository will be automatically cloned to your CERNBox SWAN directory. Navigate to the `tutorial/exercises` folder & have fun!
  
 ## Tutorial exercises
 
